@@ -1,0 +1,15 @@
+catalog{background-color: lightgray; display: block;}
+book{display: block; border: 1px solid; border-collapse: collapse; width: 50%; padding : 10px;}
+title{font-weight: bold; color: red;}
+#bookone, #bookthree, #bookfive{background-color: lightblue;}
+#titleone{margin-right: 11%;}
+#titletwo{margin-right: 7%;}
+#titlethree{margin-right: 17.5%;}
+#titlefour{margin-right: 16%;}
+#titlefive{margin-right: 19%;}
+#authorone{margin-right: 22.5%;}
+#authortwo{margin-right: 10.5%;}
+#authorthree{margin-right: 25%;}
+#authorfour{margin-right: 8%;}
+#authorfive{margin-right: 27%;}
+th{margin-right: 15%;}
