@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="catalog.css"?>
+<catalog>
+<table>
+    <th>Title</th>
+    <th>Author</th>
+    <th>Publisher</th>
+<book id="bookone" pages="123">
+    <title lang="en" id="titleone">Introduction to HTML</title>
+    <author id="authorone">Joseph Gardner</author>
+    <publisher>Press &#169;</publisher>
+</book>
+<book id="booktwo" pages="234">
+    <title lang="en" id="titletwo">Networking Infrastructure</title>
+    <author id="authortwo">Adam Douglas &amp; Janice Dall</author>
+    <publisher>Cengage;&#169;</publisher>
+</book>
+<book id="bookthree" pages="345">
+    <title lang="en" id="titlethree">Soft Skills in IT</title>
+    <author id="authorthree">Mark Hunter</author>
+    <publisher>Bolding Publisher&#169;</publisher>
+</book>  
+<book  id="bookfour" pages="456">
+    <title lang="en" id="titlefour">Network Security</title>
+    <author id="authorfour">Jennifer Starter &amp; Yuri Adantov</author>
+    <publisher>Wrox&#169;</publisher>
+</book>   
+<book id="bookfive" pages="567">
+    <title lang="en" id="titlefive">XML &amp; JSON</title>
+    <author id="authorfive">Stuart Bell</author>
+    <publisher>Cengage;&#169;</publisher>
+</book>   
+<!--"Books are being donated by instructors and publishers"    -->
+</table>  
+</catalog>
+<!--XML and JSON-831-->
