@@ -1,5 +1,0 @@
-@xmlns e "http://www.gov.org/east";
-@xmlns w "http://www.gov.org/west";
-states{background-color:#66ffff;}
-#enameFlorida, #enameMaryland, #enameNorthCarolina {display:block;}
-#wnameCalifornia, #wnameWashington, #wnameOregon {background-color:#ddd;display:block;}
